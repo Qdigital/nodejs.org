@@ -57,7 +57,7 @@
     "octonode": "^0.9.5",
     "request": "^2.88.0",
     "require-dir": "1.2.0",
-    "semver": "6.3.0",
+    "semver": "7.5.2",
     "st": "1.2.2",
     "strftime": "0.10.0"
   },
